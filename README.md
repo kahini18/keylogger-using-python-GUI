@@ -1,1 +1,4 @@
 # keylogger-using-python-GUI
+When keyloggers run, they track every keystroke entered and save the data in a file. Hackers can access this file later, or the keylogger software can automatically email the file to the hacker. Some keyloggers, which are called screen recorders, can capture your full screen at random intervals as well.
+Keyloggers can recognize patterns in keystrokes to make it easier to identify sensitive information. If a hacker is looking for password information, they can program the keylogger to monitor for a particular keystroke, such as the at sign (@). Then, the software only notifies them when you are likely entering password credentials alongside an email username. This technique helps malicious users quickly identify sensitive information without needing to sift through all your keystroke data.
+![image](https://github.com/kahini18/keylogger-using-python-GUI/assets/139942238/8fb057dd-ca74-40e4-9ee4-622be6df67fc)
